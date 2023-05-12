@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+    <!-- Имя файла: Book.xml -->
+    <BOOK>
+      <TITLE>ЦЕНЫ</TITLE>
+      <NAME>Юридическая консультация</NAME>
+      <SALE>Стоимость, от BYN</SALE>
+     
+    </BOOK>
+    <!-- -->
